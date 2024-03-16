@@ -87,4 +87,4 @@ I would like to thank everyone [who contributed to this project](https://github.
 
 
 
-## This repository + machine learning models from Historical Map Text Detection models (Robust reading competition) + social_presence (Strides.txt) + comma.ai, ivy ml (contributions)
+## This repository + machine learning models from Historical Map Text Detection models (Robust reading competition) + social_presence (Strides.txt) + comma.ai, ivy ml (contributions) + machinelearning design patterns, data structures (c++) gentoomen
